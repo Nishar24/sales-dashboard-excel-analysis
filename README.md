@@ -30,7 +30,6 @@ To consolidate raw transactional sales data into a clean, interactive dashboard 
 - Revenue shows a steady upward trend in Q4, indicating strong festive/year-end demand
 
 ## 📸 Screenshots
-*(Add dashboard screenshot here — see instructions below)*
 `![Dashboard Preview](<img width="813" height="857" alt="image" src="https://github.com/user-attachments/assets/bc31379f-c5f8-44bb-9b49-bb97ece8e0b9" />
 )`
 
