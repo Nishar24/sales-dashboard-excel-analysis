@@ -45,4 +45,4 @@ To consolidate raw transactional sales data into a clean, interactive dashboard 
 5. (Optional) Insert your own PivotTable/Slicer: click inside the table → Insert → PivotTable → Insert → Slicer
 
 ## 👤 Author
-*(Your name)* — [LinkedIn](#) | [Portfolio](#)
+*(Md Nishar Alam)* — [LinkedIn](#) | [Portfolio](#)
