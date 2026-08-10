@@ -24,7 +24,6 @@ To consolidate raw transactional sales data into a clean, interactive dashboard 
 - Fully formula-driven — dashboard auto-updates when source data changes
 
 ## 🔍 Key Insights
-- *(Fill in after reviewing your data, e.g.)*
 - West region generated the highest revenue, contributing ~28% of total sales
 - Laptops and Smartphones together account for over 50% of total revenue
 - Revenue shows a steady upward trend in Q4, indicating strong festive/year-end demand
@@ -43,4 +42,4 @@ To consolidate raw transactional sales data into a clean, interactive dashboard 
 5. (Optional) Insert your own PivotTable/Slicer: click inside the table → Insert → PivotTable → Insert → Slicer
 
 ## 👤 Author
-*(Md Nishar Alam)* — [LinkedIn](#) | [Portfolio](#)
+Md Nishar Alam — [LinkedIn](#) | [Portfolio](#)
